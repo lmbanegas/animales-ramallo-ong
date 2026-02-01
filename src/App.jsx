@@ -16,10 +16,13 @@ import AdopcionForm from './pages/AdopcionForm';
 import Login from './pages/admin/Login';
 import PanelControl from './pages/admin/PanelControl';
 
+
+
 import MenuAdopciones from './pages/admin/adopciones/MenuAdopciones';
-import AltaAdopcion from './pages/admin/Adopciones/AltaAdopcion';
-import ModificarAdopcion from './pages/admin/Adopciones/ModificarAdopcion';
-import BajaAdopcion from './pages/admin/Adopciones/BajaAdopcion';
+import AltaAdopcion from './pages/admin/adopciones/AltaAdopcion';
+import ModificarAdopcion from './pages/admin/adopciones/ModificarAdopcion';
+import BajaAdopcion from './pages/admin/adopciones/BajaAdopcion';
+
 
 import MenuNoticias from './pages/admin/Noticias/MenuNoticias';
 import AltaNoticia from './pages/admin/Noticias/AltaNoticia';
